@@ -1,0 +1,6 @@
+{
+  "name": "학종나침반 (Hakjong Compass) - 학생부 종합전형 AI 탐구 플랫폼",
+  "description": "고등학교 학생부 종합전형 대비 맞춤형 진로 로드맵, AI 교과 연계 탐구주제 추천 및 인터랙티브 마인드맵, 교사-학생 실시간 세특 피드백 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
